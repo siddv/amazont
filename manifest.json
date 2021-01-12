@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Amazon't - Find alternative online shops",
-  "description": "Displays a button that links to the google shopping page for the product you're looking at",
+  "name": "Amazon't - See non-Amazon buying options",
+  "description": "Displays a button that links to the google shopping page for the product you're looking at.",
   "version": "0.0.1",
   "author": "Siddharth Vadgama <me@siddv.net>",
   "homepage_url": "https://github.com/siddv/amazont",
